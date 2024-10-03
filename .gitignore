@@ -1,0 +1,4 @@
+# Ignore Visual Studio temporary files, build results, and
+# include VS-specific folders
+.vs/
+
